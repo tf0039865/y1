@@ -40,11 +40,11 @@ function restart() {
 
 // A function to be called when the model has been loaded
 function modelLoaded() {
-  select('#loading').html('猜拳模組載入成功');
+  select('#loading').html('水果模組載入成功');
 }
 
 function modelLoading() {
-  select('#loading').html('猜拳模組載入中……');
+  select('#loading').html('水果模組載入中……');
 }
 
 
